@@ -14,7 +14,6 @@ $ sbt test
 ## Example
 
 ```
-[info] Set current project to whoami (in build file:/Users/suenami/Oss/whoami/)
 [info] MySpec:
 [info] I
 [info] - should like Test-driven development.
