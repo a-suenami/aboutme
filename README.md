@@ -1,5 +1,7 @@
 # whoami
 
+[![Build Status](https://travis-ci.org/a-suenami/whoami.svg?branch=master)](https://travis-ci.org/a-suenami/whoami)
+
 This repository introduces myself using Scala and ScalaTest.
 If you are interested in me, you can know me by sbt build.
 
