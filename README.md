@@ -1,4 +1,4 @@
-# whoami
+# aboutme
 
 [![Build Status](https://travis-ci.org/a-suenami/whoami.svg?branch=master)](https://travis-ci.org/a-suenami/whoami)
 
